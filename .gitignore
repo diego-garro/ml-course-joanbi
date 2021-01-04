@@ -1,0 +1,9 @@
+#Virtual env
+mlenv
+
+# Confi folders
+.ipynb_checkpoints
+.vscode
+
+# Blank notebooks
+Untitled.ipynb
